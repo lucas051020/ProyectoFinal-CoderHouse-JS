@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Joystick PS3",
+        "marca": "Sony",
+        "color": "Negro",
+        "modelo": "3J771UA",
+        "img": "./img/jostickps3.jpg",
+        "precio": 3100,
+        "id": 1
+    },
+    {
+        "nombre": "Joystick PS4",
+        "marca": "Sony",
+        "color": "Rojo",
+        "modelo": "4J771UA",
+        "img": "./img/joystickps4.jpg",
+        "precio": 4500,
+        "id": 2
+    },
+    {
+        "nombre": "Auriculares Samsung",
+        "marca": "Samsung",
+        "color": "Blanco",
+        "modelo": "5J771UA",
+        "img": "./img/auricularessam.jpg",
+        "precio": 700,
+        "id": 3
+    },
+    {
+        "nombre": "Cable Cargador Iphone",
+        "marca": "Apple",
+        "color": "Blanco",
+        "modelo": "1J771UA",
+        "img": "./img/cableiphone.jpg",
+        "precio": 500,
+        "id": 4
+    },
+    {
+        "nombre": "Mouse Inalambrico",
+        "marca": "Noga",
+        "color": "Azul",
+        "modelo": "ST-610R",
+        "img": "./img/mouse.jpg",
+        "precio": 1500,
+        "id": 5
+    },
+    {
+        "nombre": "Teclado Mecanico",
+        "marca": "Noga",
+        "color": "Negro",
+        "modelo": "GANON-XS",
+        "img": "./img/teclado.jpg",
+        "precio": 3500,
+        "id": 6
+    },
+    {
+        "nombre": "Auriculares Inalambricos",
+        "marca": "Seisa",
+        "color": "Negro",
+        "modelo": "EJ-Z02",
+        "img": "./img/aurisinalambrico.jpg",
+        "precio": 2100,
+        "id": 7
+    },
+    {
+        "nombre": "Laptop HP",
+        "marca": "HP",
+        "color": "Negro",
+        "modelo": "DQ2031TG",
+        "img": "./img/laptop.jpg",
+        "precio": 102300,
+        "id": 8
+    }
+]

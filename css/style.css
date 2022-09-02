@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2? family= Roboto & display=swap");
+*{
+    padding: 0;
+    margin: 0;
+   font-family: "Roboto", sans-serif;
+   box-sizing: border-box;
+}*
+
+.botonera{
+    background-color: brown;
+    font-size: 1.3em;
+}
+
+.img-carrusel{
+    width: 100%;
+    height: 35em;
+    display: block;
+}
+
+.buscador{
+    margin: 1em;
+}
+
+.tarjetas-productos{
+    margin: 1em;
+}
+
+.carrito{
+    margin: auto;
+    width: 100vh;
+}
